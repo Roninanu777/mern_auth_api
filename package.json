@@ -1,7 +1,7 @@
 {
-  "name": "mern_auth",
+  "name": "mern_auth_api",
   "version": "1.0.0",
-  "description": "MERN app authentication boiler-plate",
+  "description": "MERN_AUTH_API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
